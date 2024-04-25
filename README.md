@@ -8,3 +8,7 @@
 <img height="200px" width= "100%" src="./img/afd-exemple.png"/>
 <br>
 <p>lorem ipsum</p>
+
+- <h2> Automatos finitos não deterministicos (AFND) </h2>
+
+<img  height="200px" width= "100%" src="./img/afd-exemple.png" />
