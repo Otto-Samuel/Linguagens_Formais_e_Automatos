@@ -1,6 +1,6 @@
 ### <h2 align="center">Linguagens formais e automatos</h2>
 
-<br><br><br>
+<br><br>
 <p></p>
 
 - <h2> Automatos finitos deterministicos (AFD) </h2>
